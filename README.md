@@ -1,0 +1,2 @@
+# fucai
+Fucai slot domino
